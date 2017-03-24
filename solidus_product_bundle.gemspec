@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'solidus_product_bundle'
-  s.version     = '1.0.0'
+  s.version     = '1.0.1'
   s.summary     = 'Adds oportunity to make bundle of products to your Spree store'
   s.description = s.summary
   s.required_ruby_version = '>= 1.9.3'
