@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'solidus_product_assembly'
+  s.name        = 'solidus_product_bundle'
   s.version     = '1.0.0'
   s.summary     = 'Adds oportunity to make bundle of products to your Spree store'
   s.description = s.summary
@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
 
   s.author            = 'Sapna Tomar'
   s.email             = 'ystomar12488@gmail.com'
-  s.homepage          = 'https://github.com/YSTomar/spree-product-assembly'
+  s.homepage          = 'https://github.com/YSTomar/solidus_product_bundle'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- spec/*`.split("\n")
